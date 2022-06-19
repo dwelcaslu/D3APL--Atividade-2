@@ -3,4 +3,4 @@ Nesta atividade, cada grupo (máx. de 3 integrantes) resolver um problema de rec
 
 
 Notebook Final:
-./notebooks/D3APL - Atividade 2.ipynb
+[./notebooks/D3APL - Atividade 2.ipynb](https://github.com/dwelcaslu/D3APL--Atividade-2/blob/main/notebooks/D3APL%20-%20Atividade%202.ipynb)
